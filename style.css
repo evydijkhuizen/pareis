@@ -156,7 +156,7 @@ ul {
 
    background-color: #5774a5;
  background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
-background-size: 50% 100%;
+background-size: 200% 300%;
 
 }
 
@@ -227,6 +227,6 @@ li a.active {
 
    background-color: #4CAF50;
  background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
-background-size: 50% 100%;
+background-size: 200% 300%;
 
 }
