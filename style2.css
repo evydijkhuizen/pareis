@@ -9,7 +9,7 @@ body
 
 background-color: #b0b4ba;
 background-image: url("https://www.frankrijkvakantieland.nl/parijs/plaatjes/parijs-tips.jpg");
-background-size: 100% 300%;
+background-size: 100% 100%;
 font-family: verdana;
 
 
@@ -19,7 +19,7 @@ margin: 20px;
 padding: 0px;
 
 
-color: red;
+color: white;
 
 
 }
@@ -36,7 +36,7 @@ h1
 {
 
 
-color: #5774a5;
+color: #ffffff;
 
 
 margin: 20px;
@@ -62,7 +62,7 @@ h2
 {
 
 
-color: #5774a5;
+color: #ffffff;
 
 
 margin: 15px;
@@ -206,7 +206,7 @@ ul {
 
    background-color: #5774a5;
    background-image: url("https://www.frankrijkvakantieland.nl/parijs/plaatjes/parijs-tips.jpg");
-background-size: 100% 300%;
+background-size: 100% 100%;
    font-family: verdana; 
 
 }
@@ -263,7 +263,7 @@ li a:hover:not(.active) {
    background-color: #ddd;
    background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
 
-background-size: 100% 300%;
+background-size: 100% 100%;
 }
 
 
@@ -275,11 +275,11 @@ background-size: 100% 300%;
 li a.active {
 
 
-   color: red;
+   color: white;
 
 
    background-color: #4CAF50;
    background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
-background-size: 100% 300%;
+background-size: 100% 100%;
 
 }
