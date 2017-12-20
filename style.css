@@ -25,7 +25,7 @@ margin: 20px;
 padding: 0px;
 
 
-color: white;
+color: red;
 
 
 }
@@ -155,7 +155,8 @@ ul {
 
 
    background-color: #5774a5;
-
+ background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
+background-size: 100% 200%;
 
 }
 
@@ -209,8 +210,8 @@ li a:hover:not(.active) {
 
 
    background-color: #ddd;
-
-
+background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
+background-size: 100% 200%;
 }
 
 
@@ -222,10 +223,11 @@ li a:hover:not(.active) {
 li a.active {
 
 
-   color: white;
+   color: red;
 
 
    background-color: #4CAF50;
-
+ background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
+background-size: 100% 200%;
 
 }
