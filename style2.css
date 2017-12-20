@@ -19,7 +19,7 @@ margin: 20px;
 padding: 0px;
 
 
-color: white;
+color: red;
 
 
 }
@@ -192,7 +192,7 @@ ul {
    list-style-type: none;
 
 
-   margin: 0;
+   margin: 20px;
 
 
    padding: 0;
@@ -206,7 +206,7 @@ ul {
 
    background-color: #5774a5;
    background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
-background-size: 50% 100%;
+background-size: 50% 100%;font-family: 
 
 }
 
